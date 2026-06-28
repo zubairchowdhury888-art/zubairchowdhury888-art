@@ -6,14 +6,10 @@
   <img src="./assets/banner.png" alt="Zubair Chowdhury Banner" width="100%">
 </p>
 
-<h1 align="center">Zubair Chowdhury</h1>
-
 <p align="center">
-<strong>Independent Researcher • AI Engineer • Infrastructure Engineer</strong>
-</p>
-
-<p align="center">
-Building intelligent systems that bridge Artificial Intelligence, Computational Biology and Scalable Infrastructure.
+Building intelligent systems that bridge <strong>Artificial Intelligence</strong>,
+<strong>Computational Biology</strong> and
+<strong>Scalable Infrastructure Engineering</strong>.
 </p>
 
 <p align="center">
@@ -34,11 +30,11 @@ Building intelligent systems that bridge Artificial Intelligence, Computational 
 
 # About
 
-I build intelligent systems that transform scientific research into reliable engineering.
+I am an independent researcher and engineer focused on transforming scientific research into reliable, production-ready technology.
 
-My work combines artificial intelligence, computational biology, automation, distributed systems and reproducible infrastructure to bridge the gap between academic discovery and production deployment.
+My work combines artificial intelligence, computational biology, distributed systems and scientific automation to build reproducible platforms that bridge academic discovery with real-world deployment.
 
-I believe research should be reproducible, engineering should be measurable, and intelligent systems should create lasting real-world impact.
+I believe research should be rigorous, engineering should be measurable, and intelligent systems should create lasting impact.
 
 ---
 
@@ -55,7 +51,7 @@ I believe research should be reproducible, engineering should be measurable, and
 - Open Science
 
 <p align="center">
-<img src="./assets/research-map.svg" width="100%" alt="Research Surface">
+<img src="./assets/research-map.svg" width="75%" alt="Research Surface">
 </p>
 
 ---
@@ -68,15 +64,11 @@ I believe research should be reproducible, engineering should be measurable, and
 <img src="./assets/mycell.svg" width="100%" alt="MyCell Platform">
 </p>
 
-AI-powered computational biology platform for biological reasoning, scientific knowledge discovery and intelligent laboratory workflows.
+AI-powered computational biology platform for biological reasoning, knowledge discovery and intelligent scientific workflows.
 
-**Status**
+**Status:** 🟢 Active Development
 
-🟢 Active Development
-
-**Technology**
-
-Python • PyTorch • FastAPI • Docker • PostgreSQL
+**Technology:** Python • PyTorch • FastAPI • Docker • PostgreSQL
 
 ---
 
@@ -86,15 +78,11 @@ Python • PyTorch • FastAPI • Docker • PostgreSQL
 <img src="./assets/infrastructure.svg" width="100%" alt="Infrastructure Intelligence Toolkit">
 </p>
 
-Cloud-native automation, monitoring and observability platform designed for resilient AI infrastructure and distributed systems.
+Cloud-native automation and observability platform designed for resilient AI infrastructure and distributed systems.
 
-**Status**
+**Status:** 🟡 Research & Prototype
 
-🟡 Research & Prototype
-
-**Technology**
-
-Python • Kubernetes • Docker • Terraform • Linux
+**Technology:** Python • Kubernetes • Docker • Terraform • Linux
 
 ---
 
@@ -104,21 +92,27 @@ Python • Kubernetes • Docker • Terraform • Linux
 <img src="./assets/research.svg" width="100%" alt="Research Automation Studio">
 </p>
 
-Framework for reproducible experimentation, AI evaluation, scientific workflows and computational research.
+Framework for reproducible experimentation, AI evaluation and computational research.
 
-**Status**
+**Status:** 🟣 Active Exploration
 
-🟣 Active Exploration
-
-**Technology**
-
-Python • LangGraph • FastAPI • Jupyter • GitHub Actions
+**Technology:** Python • LangGraph • FastAPI • Jupyter • GitHub Actions
 
 ---
 
-# Publications
+# Academic Publications
 
-Scientific publications, technical reports and research preprints are available through my academic profiles.
+My research explores Artificial Intelligence, Computational Biology, Information Theory and Infrastructure Engineering through open-access publications and technical reports.
+
+### Selected Publications
+
+- **Multi-Scale RECSM Validation: From Planetary Orbits to Fungal Networks via Universal Structural Scaling (2026)**
+- **Mycelium Networks as Biophilic Oracles: Integrating RECSM Torsion Geometry, IIT 4.0 and TSP Optimization (2026)**
+- **Mycelium Networks as Conscious Oracles: Theoretical Framework for IIT 4.0 Parameter Predictions (2026)**
+- **Mycelium Networks as Physical NP Oracles (2026)**
+- **Biological Quantum Memory via Hankel-Grammar Mapping (2026)**
+
+For the complete archive, visit my research profiles below.
 
 <p align="center">
 <img src="./assets/zenodo-card.svg" width="100%" alt="Zenodo Publications">
@@ -132,7 +126,7 @@ Scientific publications, technical reports and research preprints are available 
 
 # Latest Writing
 
-Research articles, engineering essays and technical notes documenting AI systems, computational biology and infrastructure engineering.
+Technical essays, engineering notes and research commentary documenting ongoing work in artificial intelligence, computational biology and scientific software engineering.
 
 <!-- BLOG:START -->
 
@@ -146,27 +140,11 @@ Coming Soon
 
 <p align="center">
 
-🌐 **Website**
-
-https://zubairchowdhury.uk
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/zubair-e-q-chowdhury/
-
-📚 **Zenodo**
-
-https://zenodo.org/communities/zubairchowdhury
-
-🎓 **Academia.edu**
-
-https://independent.academia.edu/zubairchowdhury3
-
-📧 **Email**
-
-dev@zubairchowdhury.uk
-
-📍 **United Kingdom**
+🌐 <a href="https://zubairchowdhury.uk">Website</a> •
+💼 <a href="https://www.linkedin.com/in/zubair-e-q-chowdhury/">LinkedIn</a> •
+📚 <a href="https://zenodo.org/communities/zubairchowdhury">Zenodo</a> •
+🎓 <a href="https://independent.academia.edu/zubairchowdhury3">Academia.edu</a> •
+📧 <a href="mailto:dev@zubairchowdhury.uk">Email</a>
 
 </p>
 
