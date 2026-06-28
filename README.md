@@ -9,17 +9,18 @@
 <h1 align="center">Zubair Chowdhury</h1>
 
 <p align="center">
-<b>Independent Researcher • AI Engineer • Infrastructure Engineer</b>
+<strong>Independent Researcher • AI Engineer • Infrastructure Engineer</strong>
 </p>
 
 <p align="center">
-Building intelligent systems at the intersection of Artificial Intelligence,
-Computational Biology and Scalable Infrastructure.
+Building intelligent systems that bridge Artificial Intelligence, Computational Biology and Scalable Infrastructure.
 </p>
 
 <p align="center">
 <a href="https://zubairchowdhury.uk">🌐 Website</a> •
 <a href="https://www.linkedin.com/in/zubair-e-q-chowdhury/">💼 LinkedIn</a> •
+<a href="https://zenodo.org/communities/zubairchowdhury">📚 Zenodo</a> •
+<a href="https://independent.academia.edu/zubairchowdhury3">🎓 Academia</a> •
 <a href="mailto:dev@zubairchowdhury.uk">📧 Email</a>
 </p>
 
@@ -31,13 +32,13 @@ Computational Biology and Scalable Infrastructure.
 
 ---
 
-# Mission
+# About
 
-I design and build intelligent systems that connect scientific research with production engineering.
+I build intelligent systems that transform scientific research into reliable engineering.
 
-My work spans Artificial Intelligence, Computational Biology, distributed infrastructure and automation, with a focus on creating reproducible, scalable systems that solve meaningful real-world problems.
+My work combines artificial intelligence, computational biology, automation, distributed systems and reproducible infrastructure to bridge the gap between academic discovery and production deployment.
 
-I believe excellent engineering should be measurable, maintainable and scientifically rigorous.
+I believe research should be reproducible, engineering should be measurable, and intelligent systems should create lasting real-world impact.
 
 ---
 
@@ -46,19 +47,20 @@ I believe excellent engineering should be measurable, maintainable and scientifi
 - Artificial Intelligence
 - Computational Biology
 - Machine Learning Systems
+- Scientific Computing
+- Distributed Systems
 - Infrastructure Engineering
 - Multi-Agent Systems
-- Scientific Automation
-- Distributed Computing
+- Research Automation
 - Open Science
 
 <p align="center">
-<img src="./assets/research-map.svg" width="100%" alt="Research Map">
+<img src="./assets/research-map.svg" width="100%" alt="Research Surface">
 </p>
 
 ---
 
-# Featured Projects
+# Research Platforms
 
 ## 🧬 MyCell Platform
 
@@ -66,13 +68,13 @@ I believe excellent engineering should be measurable, maintainable and scientifi
 <img src="./assets/mycell.svg" width="100%" alt="MyCell Platform">
 </p>
 
-AI-powered computational biology platform for biological reasoning, knowledge discovery and intelligent scientific workflows.
+AI-powered computational biology platform for biological reasoning, scientific knowledge discovery and intelligent laboratory workflows.
 
-**Current Stage**
+**Status**
 
 🟢 Active Development
 
-**Primary Technologies**
+**Technology**
 
 Python • PyTorch • FastAPI • Docker • PostgreSQL
 
@@ -81,16 +83,16 @@ Python • PyTorch • FastAPI • Docker • PostgreSQL
 ## ⚙ Infrastructure Intelligence Toolkit
 
 <p align="center">
-<img src="./assets/infrastructure.svg" width="100%" alt="Infrastructure Toolkit">
+<img src="./assets/infrastructure.svg" width="100%" alt="Infrastructure Intelligence Toolkit">
 </p>
 
-Infrastructure automation and observability platform built for cloud-native distributed systems and production AI deployments.
+Cloud-native automation, monitoring and observability platform designed for resilient AI infrastructure and distributed systems.
 
-**Current Stage**
+**Status**
 
 🟡 Research & Prototype
 
-**Primary Technologies**
+**Technology**
 
 Python • Kubernetes • Docker • Terraform • Linux
 
@@ -102,33 +104,39 @@ Python • Kubernetes • Docker • Terraform • Linux
 <img src="./assets/research.svg" width="100%" alt="Research Automation Studio">
 </p>
 
-Research workflow platform for reproducible experimentation, AI evaluation and computational science.
+Framework for reproducible experimentation, AI evaluation, scientific workflows and computational research.
 
-**Current Stage**
+**Status**
 
 🟣 Active Exploration
 
-**Primary Technologies**
+**Technology**
 
-Python • Jupyter • LangGraph • FastAPI • GitHub Actions
+Python • LangGraph • FastAPI • Jupyter • GitHub Actions
 
 ---
 
 # Publications
 
-<!-- PUBLICATIONS:START -->
+Scientific publications, technical reports and research preprints are available through my academic profiles.
 
-Research papers and technical publications will appear here as current work reaches publication.
+<p align="center">
+<img src="./assets/zenodo-card.svg" width="100%" alt="Zenodo Publications">
+</p>
 
-<!-- PUBLICATIONS:END -->
+<p align="center">
+<img src="./assets/academia-card.svg" width="100%" alt="Academia Publications">
+</p>
 
 ---
 
 # Latest Writing
 
+Research articles, engineering essays and technical notes documenting AI systems, computational biology and infrastructure engineering.
+
 <!-- BLOG:START -->
 
-Engineering articles, AI research notes and computational biology insights will appear here.
+Coming Soon
 
 <!-- BLOG:END -->
 
@@ -138,19 +146,27 @@ Engineering articles, AI research notes and computational biology insights will 
 
 <p align="center">
 
-🌍 **Website**
+🌐 **Website**
 
 https://zubairchowdhury.uk
 
 💼 **LinkedIn**
 
-https://linkedin.com/in/zubair-e-q-chowdhury
+https://www.linkedin.com/in/zubair-e-q-chowdhury/
+
+📚 **Zenodo**
+
+https://zenodo.org/communities/zubairchowdhury
+
+🎓 **Academia.edu**
+
+https://independent.academia.edu/zubairchowdhury3
 
 📧 **Email**
 
 dev@zubairchowdhury.uk
 
-📍 United Kingdom
+📍 **United Kingdom**
 
 </p>
 
@@ -161,8 +177,6 @@ dev@zubairchowdhury.uk
 </p>
 
 <p align="center">
-
-**Research. Engineer. Deploy. Improve. Repeat.**
-
+<strong>Research. Engineer. Deploy. Improve. Repeat.</strong>
 </p>
 ```
