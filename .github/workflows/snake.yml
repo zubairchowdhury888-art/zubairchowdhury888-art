@@ -1,0 +1,14 @@
+name: Contribution Snake (Placeholder)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Scaffold Notice
+        run: echo "Scaffold only. TODO: generate snake SVG and publish to assets/social."

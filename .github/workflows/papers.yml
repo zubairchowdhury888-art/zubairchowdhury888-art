@@ -1,0 +1,14 @@
+name: Publications Sync (Placeholder)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  papers:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Scaffold Notice
+        run: echo "Scaffold only. TODO: run scripts/update_publications.py and commit README changes."

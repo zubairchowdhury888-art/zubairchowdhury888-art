@@ -1,0 +1,14 @@
+name: Summary Cards (Placeholder)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  summary:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Scaffold Notice
+        run: echo "Scaffold only. TODO: run scripts/generate_cards.py and publish generated assets."

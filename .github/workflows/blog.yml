@@ -1,0 +1,14 @@
+name: Blog Sync (Placeholder)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  blog:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Scaffold Notice
+        run: echo "Scaffold only. TODO: run scripts/update_blog.py and commit README changes."

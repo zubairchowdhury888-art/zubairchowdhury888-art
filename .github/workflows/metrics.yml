@@ -1,0 +1,14 @@
+name: Metrics Sync (Placeholder)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Scaffold Notice
+        run: echo "Scaffold only. TODO: generate metrics artifacts and update README surfaces."
