@@ -3,18 +3,18 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Zubair Chowdhury Banner" width="100%" />
+  <img src="./assets/banner.png" alt="Zubair Chowdhury Banner" width="100%">
 </p>
 
 <h1 align="center">Zubair Chowdhury</h1>
 
 <p align="center">
-<strong>Independent Researcher • AI Engineer • Infrastructure Engineer</strong>
+<b>Independent Researcher • AI Engineer • Infrastructure Engineer</b>
 </p>
 
 <p align="center">
 Building intelligent systems at the intersection of Artificial Intelligence,
-Computational Biology and Infrastructure Engineering.
+Computational Biology and Scalable Infrastructure.
 </p>
 
 <p align="center">
@@ -25,62 +25,32 @@ Computational Biology and Infrastructure Engineering.
 
 ---
 
-## Thesis
-
-I build AI systems and scientific infrastructure that transform complex research into reliable, production-ready technologies.
-
-My work combines machine learning, computational biology, automation and scalable infrastructure to bridge the gap between academic research and real-world deployment.
-
----
-
-## Why This Work Matters
-
-Many promising research ideas never become usable systems.
-
-Likewise, many production systems sacrifice scientific rigor for speed.
-
-My work focuses on connecting these worlds through reproducible research, robust engineering, and intelligent automation that scales beyond the laboratory.
-
----
-
-## Current Focus
-
-### Research
-
-- Translational Machine Learning
-- Computational Biology
-- AI-assisted Scientific Software
-- Reproducible AI Pipelines
-
-### Engineering
-
-- AI Automation
-- Multi-Agent Systems
-- Infrastructure Engineering
-- Cloud Native Architecture
-
-### Principles
-
-- Research-driven engineering
-- Reproducibility first
-- Long-term maintainability
-- Open science whenever possible
-
-<br>
-
 <p align="center">
 <img src="./assets/profile-card.svg" width="100%" alt="Profile Card">
 </p>
 
 ---
 
-## Research Surface
+# Mission
+
+I design and build intelligent systems that connect scientific research with production engineering.
+
+My work spans Artificial Intelligence, Computational Biology, distributed infrastructure and automation, with a focus on creating reproducible, scalable systems that solve meaningful real-world problems.
+
+I believe excellent engineering should be measurable, maintainable and scientifically rigorous.
+
+---
+
+# Research Surface
 
 - Artificial Intelligence
 - Computational Biology
-- Distributed Systems
+- Machine Learning Systems
 - Infrastructure Engineering
+- Multi-Agent Systems
 - Scientific Automation
+- Distributed Computing
+- Open Science
 
 <p align="center">
 <img src="./assets/research-map.svg" width="100%" alt="Research Map">
@@ -88,7 +58,7 @@ My work focuses on connecting these worlds through reproducible research, robust
 
 ---
 
-# Selected Work
+# Featured Projects
 
 ## 🧬 MyCell Platform
 
@@ -96,9 +66,15 @@ My work focuses on connecting these worlds through reproducible research, robust
 <img src="./assets/mycell.svg" width="100%" alt="MyCell Platform">
 </p>
 
-AI-powered computational biology platform for biological analysis, knowledge discovery and scientific decision support.
+AI-powered computational biology platform for biological reasoning, knowledge discovery and intelligent scientific workflows.
 
-**Status:** Active Development
+**Current Stage**
+
+🟢 Active Development
+
+**Primary Technologies**
+
+Python • PyTorch • FastAPI • Docker • PostgreSQL
 
 ---
 
@@ -108,21 +84,33 @@ AI-powered computational biology platform for biological analysis, knowledge dis
 <img src="./assets/infrastructure.svg" width="100%" alt="Infrastructure Toolkit">
 </p>
 
-Infrastructure automation, monitoring and observability platform designed for resilient distributed systems.
+Infrastructure automation and observability platform built for cloud-native distributed systems and production AI deployments.
 
-**Status:** Research & Prototype
+**Current Stage**
+
+🟡 Research & Prototype
+
+**Primary Technologies**
+
+Python • Kubernetes • Docker • Terraform • Linux
 
 ---
 
 ## 🔬 Research Automation Studio
 
 <p align="center">
-<img src="./assets/research.svg" width="100%" alt="Research Automation">
+<img src="./assets/research.svg" width="100%" alt="Research Automation Studio">
 </p>
 
-Automation platform for reproducible experimentation, AI workflows and scientific software engineering.
+Research workflow platform for reproducible experimentation, AI evaluation and computational science.
 
-**Status:** Active Exploration
+**Current Stage**
+
+🟣 Active Exploration
+
+**Primary Technologies**
+
+Python • Jupyter • LangGraph • FastAPI • GitHub Actions
 
 ---
 
@@ -130,7 +118,7 @@ Automation platform for reproducible experimentation, AI workflows and scientifi
 
 <!-- PUBLICATIONS:START -->
 
-Coming Soon
+Research papers and technical publications will appear here as current work reaches publication.
 
 <!-- PUBLICATIONS:END -->
 
@@ -140,7 +128,7 @@ Coming Soon
 
 <!-- BLOG:START -->
 
-Coming Soon
+Engineering articles, AI research notes and computational biology insights will appear here.
 
 <!-- BLOG:END -->
 
@@ -148,10 +136,23 @@ Coming Soon
 
 # Connect
 
-- 🌍 Website: https://zubairchowdhury.uk
-- 💼 LinkedIn: https://www.linkedin.com/in/zubair-e-q-chowdhury/
-- 📧 Email: dev@zubairchowdhury.uk
-- 📍 United Kingdom
+<p align="center">
+
+🌍 **Website**
+
+https://zubairchowdhury.uk
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/zubair-e-q-chowdhury
+
+📧 **Email**
+
+dev@zubairchowdhury.uk
+
+📍 United Kingdom
+
+</p>
 
 ---
 
@@ -160,6 +161,8 @@ Coming Soon
 </p>
 
 <p align="center">
-<b>Build with rigor. Publish with clarity. Engineer for long-term impact.</b>
+
+**Research. Engineer. Deploy. Improve. Repeat.**
+
 </p>
 ```
