@@ -7,7 +7,12 @@
 </p>
 
 <p align="center">
-Building intelligent systems that bridge <strong>Artificial Intelligence</strong>,
+<strong>Independent Researcher • AI Engineer • Infrastructure Engineer</strong>
+</p>
+
+<p align="center">
+Building intelligent systems at the intersection of
+<strong>Artificial Intelligence</strong>,
 <strong>Computational Biology</strong> and
 <strong>Scalable Infrastructure Engineering</strong>.
 </p>
@@ -30,33 +35,50 @@ Building intelligent systems that bridge <strong>Artificial Intelligence</strong
 
 # About
 
-I am an independent researcher and engineer focused on transforming scientific research into reliable, production-ready technology.
+I am an independent researcher and engineer dedicated to transforming scientific ideas into reliable, production-ready systems.
 
-My work combines artificial intelligence, computational biology, distributed systems and scientific automation to build reproducible platforms that bridge academic discovery with real-world deployment.
+My work combines **Artificial Intelligence**, **Computational Biology**, **Scientific Computing**, and **Infrastructure Engineering** to build reproducible technologies that bridge research and real-world deployment.
 
-I believe research should be rigorous, engineering should be measurable, and intelligent systems should create lasting impact.
+Every project is guided by four principles:
+
+- Scientific rigor
+- Engineering excellence
+- Reproducibility
+- Long-term impact
+
+---
+
+# Research Roadmap
+
+<p align="center">
+<img src="./assets/research-roadmap.svg" width="100%" alt="Research Roadmap">
+</p>
 
 ---
 
 # Research Surface
 
+My current research spans the disciplines below, with a strong focus on building practical systems from theoretical foundations.
+
 - Artificial Intelligence
 - Computational Biology
-- Machine Learning Systems
 - Scientific Computing
-- Distributed Systems
+- Machine Learning Systems
 - Infrastructure Engineering
+- Distributed Systems
 - Multi-Agent Systems
 - Research Automation
 - Open Science
 
 <p align="center">
-<img src="./assets/research-map.svg" width="75%" alt="Research Surface">
+<img src="./assets/research-map.svg" width="80%" alt="Research Surface">
 </p>
 
 ---
 
-# Research Platforms
+# Research Programs
+
+The following projects represent the primary research and engineering initiatives currently under active development.
 
 ## 🧬 MyCell Platform
 
@@ -68,8 +90,6 @@ AI-powered computational biology platform for biological reasoning, knowledge di
 
 **Status:** 🟢 Active Development
 
-**Technology:** Python • PyTorch • FastAPI • Docker • PostgreSQL
-
 ---
 
 ## ⚙ Infrastructure Intelligence Toolkit
@@ -78,11 +98,9 @@ AI-powered computational biology platform for biological reasoning, knowledge di
 <img src="./assets/infrastructure.svg" width="100%" alt="Infrastructure Intelligence Toolkit">
 </p>
 
-Cloud-native automation and observability platform designed for resilient AI infrastructure and distributed systems.
+Cloud-native infrastructure automation, observability and deployment framework for resilient AI systems and distributed environments.
 
 **Status:** 🟡 Research & Prototype
-
-**Technology:** Python • Kubernetes • Docker • Terraform • Linux
 
 ---
 
@@ -92,27 +110,17 @@ Cloud-native automation and observability platform designed for resilient AI inf
 <img src="./assets/research.svg" width="100%" alt="Research Automation Studio">
 </p>
 
-Framework for reproducible experimentation, AI evaluation and computational research.
+Framework for reproducible experimentation, AI evaluation pipelines and scientific software engineering.
 
 **Status:** 🟣 Active Exploration
-
-**Technology:** Python • LangGraph • FastAPI • Jupyter • GitHub Actions
 
 ---
 
 # Academic Publications
 
-My research explores Artificial Intelligence, Computational Biology, Information Theory and Infrastructure Engineering through open-access publications and technical reports.
+Open science is central to my research philosophy.
 
-### Selected Publications
-
-- **Multi-Scale RECSM Validation: From Planetary Orbits to Fungal Networks via Universal Structural Scaling (2026)**
-- **Mycelium Networks as Biophilic Oracles: Integrating RECSM Torsion Geometry, IIT 4.0 and TSP Optimization (2026)**
-- **Mycelium Networks as Conscious Oracles: Theoretical Framework for IIT 4.0 Parameter Predictions (2026)**
-- **Mycelium Networks as Physical NP Oracles (2026)**
-- **Biological Quantum Memory via Hankel-Grammar Mapping (2026)**
-
-For the complete archive, visit my research profiles below.
+Current work is published through **Zenodo** and **Academia.edu**, providing open access to technical reports, theoretical research and computational biology studies.
 
 <p align="center">
 <img src="./assets/zenodo-card.svg" width="100%" alt="Zenodo Publications">
@@ -124,13 +132,23 @@ For the complete archive, visit my research profiles below.
 
 ---
 
+# Current Priorities
+
+- Advancing reproducible AI systems for scientific discovery.
+- Building computational biology platforms for practical research.
+- Engineering resilient infrastructure for intelligent software.
+- Publishing open-access scientific research.
+- Translating theoretical ideas into deployable technologies.
+
+---
+
 # Latest Writing
 
-Technical essays, engineering notes and research commentary documenting ongoing work in artificial intelligence, computational biology and scientific software engineering.
+Technical essays, engineering notes and research commentary documenting ongoing work across artificial intelligence, computational biology and infrastructure engineering.
 
 <!-- BLOG:START -->
 
-Coming Soon
+Articles currently in preparation.
 
 <!-- BLOG:END -->
 
@@ -155,6 +173,7 @@ Coming Soon
 </p>
 
 <p align="center">
-<strong>Research. Engineer. Deploy. Improve. Repeat.</strong>
+<strong>Research. Engineer. Deploy. Improve. Repeat.</strong><br>
+<sub>Building intelligent systems that bridge scientific discovery and real-world impact.</sub>
 </p>
 ```
