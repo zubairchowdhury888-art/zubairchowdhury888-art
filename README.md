@@ -1,156 +1,154 @@
-<!-- ============================== -->
-<!-- Hero                          -->
-<!-- ============================== -->
+<!-- ========================================================= -->
+<!-- HERO -->
+<!-- ========================================================= -->
+
 <p align="center">
-  <picture>
-    <source srcset="assets/banner.png" type="image/png" />
-    <img src="assets/hero-background.svg" alt="Zubair Chowdhury - AI Research and Engineering" width="100%" />
-  </picture>
+  <img src="assets/banner.png" alt="Zubair Chowdhury Banner" width="100%">
+</p>
+
+<h1 align="center">
+Zubair Chowdhury
+</h1>
+
+<p align="center">
+Independent Researcher • AI Engineer • Infrastructure Engineer
 </p>
 
 <p align="center">
-  <strong>Zubair Chowdhury</strong>
+<a href="https://zubairchowdhury.uk">Website</a> •
+<a href="https://www.linkedin.com/in/zubair-e-q-chowdhury/">LinkedIn</a> •
+<a href="mailto:dev@zubairchowdhury.uk">Email</a>
 </p>
 
-<p align="center">
-  Independent Researcher · AI Engineer · Infrastructure Engineer
-</p>
+---
 
-<p align="center">
-  <a href="https://zubairchowdhury.uk">Website</a>
-  ·
-  <a href="https://www.linkedin.com/in/zubair-e-q-chowdhury/">LinkedIn</a>
-  ·
-  <a href="mailto:dev@zubairchowdhury.uk">Email</a>
-</p>
+# Thesis
 
-<!-- ============================== -->
-<!-- Thesis                         -->
-<!-- ============================== -->
-## Thesis
+I build AI systems, computational biology tools and resilient infrastructure that bridge scientific research with real-world deployment.
 
-I build AI and scientific infrastructure that turns complex research into reliable systems people can trust.
+---
 
-<!-- ============================== -->
-<!-- Why This Work Matters         -->
-<!-- ============================== -->
-## Why This Work Matters
+# Why This Work Matters
 
-Most research fails at the handoff to production. Most production systems lose the rigor of research.
+Modern AI research often struggles to become production-ready, while production systems frequently lose scientific rigor.
 
-I focus on the bridge between those worlds: reproducible methods, resilient infrastructure, and intelligent systems designed for long-term impact.
+My work focuses on building reproducible, scalable and maintainable systems that connect these two worlds.
 
-<!-- ============================== -->
-<!-- Current Focus                 -->
-<!-- ============================== -->
-## Current Focus
+---
+
+# Current Focus
 
 ### Research
-- Translational machine learning workflows for computational biology.
-- Evaluation standards for AI-assisted scientific software.
-- Reproducible data and model lifecycle design.
 
-### Product
-- AI automation tooling for engineers and researchers.
-- Infrastructure systems prioritizing reliability, observability, and reproducibility.
+- Translational Machine Learning
+- Computational Biology
+- Scientific Software Engineering
 
-### Method
-- Build in public where possible.
-- Engineer for maintainability over novelty.
-- Prefer measurable outcomes over narrative claims.
+### Engineering
 
-<p align="left">
-  <img src="assets/profile-card.svg" alt="Profile summary card" width="100%" />
+- AI Infrastructure
+- Automation Platforms
+- Distributed Systems
+
+### Principles
+
+- Research First
+- Engineering for Longevity
+- Open Science
+- Reproducibility
+
+<p align="center">
+<img src="assets/profile-card.svg" width="100%">
 </p>
 
-<!-- ============================== -->
-<!-- Research Surface              -->
-<!-- ============================== -->
-## Research Surface
+---
+
+# Research Surface
 
 - Artificial Intelligence
 - Computational Biology
-- Distributed Systems
 - Infrastructure Engineering
+- Distributed Systems
 - Automation
 
-<p align="left">
-  <img src="assets/research-map.svg" alt="Research map placeholder" width="100%" />
+<p align="center">
+<img src="assets/research-map.svg" width="100%">
 </p>
 
-<!-- ============================== -->
-<!-- Selected Work                 -->
-<!-- ============================== -->
-## Selected Work
+---
 
-### MyCell Platform
-<p>
-  <img src="assets/mycell.svg" alt="MyCell project card" width="100%" />
+# Selected Work
+
+## MyCell Platform
+
+<p align="center">
+<img src="assets/mycell.svg" width="100%">
 </p>
 
-- AI-enabled biological analysis and decision-support platform.
-- Status: Active Development.
-- Repository: Coming soon.
+- AI-powered computational biology platform
+- Intelligent biological analysis
+- Active development
 
-### Infrastructure Intelligence Toolkit
-<p>
-  <img src="assets/infrastructure.svg" alt="Infrastructure project card" width="100%" />
+---
+
+## Infrastructure Intelligence Toolkit
+
+<p align="center">
+<img src="assets/infrastructure.svg" width="100%">
 </p>
 
-- Infrastructure automation and observability for distributed systems.
-- Status: Research and Prototyping.
-- Repository: Coming soon.
+- Infrastructure automation
+- Cloud engineering
+- Observability
+- Research prototype
 
-### Research Automation Studio
-<p>
-  <img src="assets/research.svg" alt="Research project card" width="100%" />
+---
+
+## Research Automation Studio
+
+<p align="center">
+<img src="assets/research.svg" width="100%">
 </p>
 
-- Reproducible experimentation workflows for AI and scientific software.
-- Status: Active Exploration.
-- Repository: Coming soon.
+- Experiment automation
+- Scientific workflows
+- AI-assisted research
 
-<!-- ============================== -->
-<!-- Writing and Publications      -->
-<!-- ============================== -->
-## Writing and Publications
+---
 
-### Publications
+# Publications
+
 <!-- PUBLICATIONS:START -->
-- Coming soon.
+
+Coming Soon
+
 <!-- PUBLICATIONS:END -->
 
-### Latest Writing
+---
+
+# Latest Writing
+
 <!-- BLOG:START -->
-- Coming soon.
+
+Coming Soon
+
 <!-- BLOG:END -->
 
-<!-- ============================== -->
-<!-- Why Follow                    -->
-<!-- ============================== -->
-## Why Follow
+---
 
-- For practical AI systems built with research rigor.
-- For reproducible approaches to computational biology workflows.
-- For engineering notes from research to production.
+# Connect
 
-<!-- ============================== -->
-<!-- Contact                       -->
-<!-- ============================== -->
-## Contact
+- 🌐 https://zubairchowdhury.uk
+- 💼 https://linkedin.com/in/zubair-e-q-chowdhury
+- 📧 dev@zubairchowdhury.uk
 
-- Website: https://zubairchowdhury.uk
-- LinkedIn: https://www.linkedin.com/in/zubair-e-q-chowdhury/
-- Email: dev@zubairchowdhury.uk
-- Location: United Kingdom
-
-<!-- ============================== -->
-<!-- Footer                        -->
-<!-- ============================== -->
 <p align="center">
-  <img src="assets/divider.svg" alt="Section divider" width="100%" />
+<img src="assets/divider.svg" width="100%">
 </p>
 
 <p align="center">
-  Build with rigor. Publish with clarity. Engineer for long-term impact.
+
+**Build with rigor • Publish with clarity • Engineer for long-term impact**
+
 </p>
+```
